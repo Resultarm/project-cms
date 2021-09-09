@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Error';","map":{"version":3,"sources":["/Users/franciscosantos/go/src/Works/rmcsm/resultarmind.com.br/components/Error/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,SAAxB","sourcesContent":["export { default } from './Error';\n"]},"metadata":{},"sourceType":"module"}

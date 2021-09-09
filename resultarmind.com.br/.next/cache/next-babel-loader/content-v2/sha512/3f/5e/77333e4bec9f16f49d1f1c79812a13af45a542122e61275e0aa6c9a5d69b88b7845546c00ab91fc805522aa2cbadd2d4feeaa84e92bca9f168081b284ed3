@@ -1,0 +1,1 @@
+{"ast":null,"code":"module.exports = {\n  use: true\n};","map":{"version":3,"sources":["/Users/franciscosantos/go/src/Works/rmcsm/resultarmind.com.br/youtube.js"],"names":["module","exports","use"],"mappings":"AAAAA,MAAM,CAACC,OAAP,GAAiB;AACfC,EAAAA,GAAG,EAAE;AADU,CAAjB","sourcesContent":["module.exports = {\n  use: true\n};\n"]},"metadata":{},"sourceType":"script"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './NewsEvent';","map":{"version":3,"sources":["/Users/franciscosantos/go/src/Works/rmcsm/resultarmind.com.br/components/NewsEvent/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,aAAxB","sourcesContent":["export { default } from './NewsEvent';\n"]},"metadata":{},"sourceType":"module"}

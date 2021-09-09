@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Faq';","map":{"version":3,"sources":["/Users/franciscosantos/go/src/Works/rmcsm/resultarmind.com.br/components/Faq/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,OAAxB","sourcesContent":["export { default } from './Faq';\n"]},"metadata":{},"sourceType":"module"}
